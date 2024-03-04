@@ -27,26 +27,26 @@ I am currently studying HBO-ICT at Saxion in Deventer.
 
 Work experience:
 * Lobbyist McDonald's.
-- July 2015 - August 2020
+    - July 2015 - August 2020
 * Internship at The Webmen B.V.
-- August 2019 - February 2020
+    - August 2019 - February 2020
 * Dishwasher Hotel De Echoput.
-- August 2020 - March 2023
+    - August 2020 - March 2023
 * Internship at Topicus B.V.
-- February 2021 - June 2021
+    - February 2021 - June 2021
 * Student assistant Saxion Brightspace
-- March 2023 - February 2024
+    - March 2023 - February 2024
 * Minor at Malvern Panalytical B.V.
-- September 2023 - February 2024
+    - September 2023 - February 2024
 
 Education:
 * HAVO Diploma Passed
-- Profile: Physics and Engineering.
+    - Profile: Physics and Engineering.
 * HBO-ICT Saxion Deventer
-- August 2017 - July 2018.
+    - August 2017 - July 2018.
 * MBO Level 4 Application Development ROC Aventus Apeldoorn Passed
-- August 2018 - July 2021
+    - August 2018 - July 2021
 * HBO-ICT Saxion Deventer
-- August 2021 - Present
+    - August 2021 - Present
 * UC Berkeley California
-- October 2023 - November 2023
+    - October 2023 - November 2023
