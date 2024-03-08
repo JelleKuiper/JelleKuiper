@@ -48,5 +48,5 @@ Education:
     - August 2018 - July 2021
 * HBO-ICT Saxion Deventer
     - August 2021 - Present
-* UC Berkeley California
+* UC Berkeley California Passed
     - October 2023 - November 2023
