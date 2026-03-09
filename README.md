@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Jelle Kuiper, a Software Engineer in training and now intern at Belastingdienst Apeldoorn, IV department. Happy to be here and looking forward to grow!
+My name is Jelle Kuiper, a Software Engineer at work professionally at Info Support B.V.
 
 Hobbies / sports:
 - Trampoline jumping.
@@ -13,7 +13,7 @@ Hobbies / sports:
 - Starting hobby projects using my programming talents.
 
 Who am I?
-Hello my name is Jelle Kuiper and I am, at the time of updating this Text, 24 years old. What I like doing most in a day is programming, beatboxing, gaming, watching YouTube/movies/series, cycling, trampolining and hanging out with my girlfriend/friends.
+Hello my name is Jelle Kuiper and I am, at the time of updating this Text, 26 years old. What I like doing most in a day is programming, beatboxing, gaming, watching YouTube/movies/series, cycling, trampolining and hanging out with my girlfriend/friends.
 
 Furthermore, I have a good eye for detail and a methodical work ethic since I:
 - 5 years working at a McDonald's;
@@ -38,6 +38,10 @@ Work experience:
     - March 2023 - February 2024
 * Minor at Malvern Panalytical B.V.
     - September 2023 - February 2024
+* Internship at Belastingdienst Apeldoorn
+    - Februari 2024 - July 2024
+* Internship at Info Support B.V.
+    - Februari 2025 - July 2025
 
 Education:
 * HAVO Diploma Passed
@@ -46,7 +50,7 @@ Education:
     - August 2017 - July 2018.
 * MBO Level 4 Application Development ROC Aventus Apeldoorn Passed
     - August 2018 - July 2021
-* HBO-ICT Saxion Deventer
-    - August 2021 - Present
 * UC Berkeley California Passed
     - October 2023 - November 2023
+* HBO-ICT Saxion Deventer
+    - August 2021 - July 2025
